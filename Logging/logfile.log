@@ -1,0 +1,4 @@
+DEBUG:root:This should be in log file
+INFO:root:this two
+WARNING:root:this three
+ERROR:root:anything can go in the file
